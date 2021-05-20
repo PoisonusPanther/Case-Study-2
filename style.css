@@ -1,0 +1,43 @@
+#logo{
+    width: 170px;
+    height: 170px;
+}
+h3{
+    margin-left: 100px;
+}
+hr{
+    width: 90%;
+}
+#e1, #e2, #e3, #e4, #e5{
+    background-color: rgba(127, 229, 255, 0.541);
+    border-radius: 10px;
+    width: 40%;
+    margin-left: 100px;
+}
+#image_result{
+    color: azure;
+}
+b{
+    color: rgba(231, 85, 48, 0.842);
+}
+span{
+    color: purple;
+}
+li{
+    list-style-type: none;
+}
+img{
+    width: 100px;
+    height:100px;
+}
+#conclusion{
+    background-color: red;
+    border-radius: 10px;
+    width: 40%;
+    margin-left: 100px;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+#conclusion, span{
+    color: azure !important;
+}
